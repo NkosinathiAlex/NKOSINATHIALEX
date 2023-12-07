@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2><b>Welcome to my DATA Apartment</b></h2> ✨
+<h2><b>WELCOME TO MY DATA APARTMENT✨</b></h2> 
 <p>My Name is <b>Nkosinathi Alex Maziya</b>, I am data Analyst.
 <b>I LOVE DATA.</b> Okay now Please check my projects I promise you will love them,
 don't just come here and leave 😄</p>
