@@ -4,7 +4,7 @@
 <b>I LOVE DATA.</b> Okay now Please check my projects I promise you will love them,
 don't just come here and leave 😄</p>
 
-<p>You  wanna know a fun fact about me?<b>I am very good at googling stuff 😄</b</p>
+<p>You  wanna know a fun fact about me?<b>I am very good at googling stuff 😄</b></p>
 
  I’m currently working on a scraping Project and I’m looking for help with a data analyst job
  entry level so I can showcase my skills, learn, grow in the data world and make a positive impact to any organisation.
